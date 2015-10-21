@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>515106324</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\Data Sheets\Nordic\nRF51\SDKs\SDK 4.4.2\nrf51422\Board\pca10003\ant\ant_broadcast\broadcast_rx\main_broadcast_rx.c</file>
+      <file>$PROJ_DIR$\Include\main.h</file>
+      <file>$PROJ_DIR$\Include\system_nRF51.h</file>
+      <file>$PROJ_DIR$\Include\svc_app.h</file>
+      <file>$PROJ_DIR$\Include\app_error.h</file>
+      <file>$PROJ_DIR$\Common\Source\dsi_utility.c</file>
+      <file>$PROJ_DIR$\Include\appconfig.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\ant_interface.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\ant_error.h</file>
+      <file>$PROJ_DIR$\Include\boardconfig.h</file>
+      <file>$PROJ_DIR$\Common\Source\system.c</file>
+      <file>$PROJ_DIR$\Common\Source\global.c</file>
+      <file>$PROJ_DIR$\Common\Source\serial.c</file>
+      <file>$PROJ_DIR$\Common\Include\global.h</file>
+      <file>$PROJ_DIR$\Common\Include\command.h</file>
+      <file>$PROJ_DIR$\Common\Include\serial.h</file>
+      <file>$PROJ_DIR$\Common\Include\system.h</file>
+      <file>$PROJ_DIR$\Common\Source\command.c</file>
+      <file>$PROJ_DIR$\Common\Include\dsi_utility.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\svc_app.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\version.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\serial.o</file>
+      <file>$PROJ_DIR$\Debug\List\ant_network_processor_mpg_iar.map</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_nrf51.o</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmFunc.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\version.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\system_nrf51.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\command.o</file>
+      <file>$PROJ_DIR$\Debug\List\system_nrf51.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\svc_app.o</file>
+      <file>$PROJ_DIR$\Debug\Exe\ant_network_processor_mpg_iar.hex</file>
+      <file>$PROJ_DIR$\Debug\Obj\iar_startup_nrf51.o</file>
+      <file>$TOOLKIT_DIR$\lib\rt6M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\m6M_tl.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\global.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\dsi_utility.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\main.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\serial.lst</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$PROJ_DIR$\Debug\List\version.lst</file>
+      <file>$PROJ_DIR$\Debug\Obj\dsi_utility.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\system.pbi</file>
+      <file>$PROJ_DIR$\Debug\List\iar_startup_nrf51.lst</file>
+      <file>$TOOLKIT_DIR$\lib\dl6M_tln.a</file>
+      <file>$PROJ_DIR$\Debug\Obj\exception_handler.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\string.h</file>
+      <file>$PROJ_DIR$\Debug\Obj\command.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\system.o</file>
+      <file>$PROJ_DIR$\Debug\Obj\global.pbi</file>
+      <file>$PROJ_DIR$\Debug\Obj\serial.pbi</file>
+      <file>$PROJ_DIR$\Debug\Exe\ant_network_processor_mpg_iar.out</file>
+      <file>$PROJ_DIR$\Debug\Obj\ant_network_processor_mpg_iar.pbd</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cmInstr.h</file>
+      <file>$PROJ_DIR$\Debug\List\system.lst</file>
+      <file>$PROJ_DIR$\Debug\List\global.lst</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm0.h</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ysizet.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\Debug\List\main.lst</file>
+      <file>$PROJ_DIR$\Debug\List\svc_app.lst</file>
+      <file>$PROJ_DIR$\Debug\List\command.lst</file>
+      <file>$PROJ_DIR$\Debug\List\dsi_utility.lst</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\ant_parameters.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\nrf_error.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\nrf_error_sdm.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\nrf_error_soc.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\nrf_radio_disable.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\nrf_sdm.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\nrf_soc.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\nrf_svc.h</file>
+      <file>$PROJ_DIR$\SDK\Include\s210\softdevice_assert.h</file>
+      <file>$PROJ_DIR$\SDK\Include\compiler_abstraction.h</file>
+      <file>$PROJ_DIR$\SDK\Include\nordic_common.h</file>
+      <file>$PROJ_DIR$\SDK\Include\nrf.h</file>
+      <file>$PROJ_DIR$\SDK\Include\nrf51.h</file>
+      <file>$PROJ_DIR$\SDK\Include\nrf51_bitfields.h</file>
+      <file>$PROJ_DIR$\SDK\Include\nrf51_deprecated.h</file>
+      <file>$PROJ_DIR$\SDK\Include\nrf_assert.h</file>
+      <file>$PROJ_DIR$\SDK\Include\nrf_delay.h</file>
+      <file>$PROJ_DIR$\SDK\Include\nrf_gpio.h</file>
+      <file>$PROJ_DIR$\SDK\Include\system_nrf51.h</file>
+      <file>$PROJ_DIR$\Source\exception_handler.s</file>
+      <file>$PROJ_DIR$\Source\iar_startup_nrf51.s</file>
+      <file>$PROJ_DIR$\Source\main.c</file>
+      <file>$PROJ_DIR$\Source\nRF51422_QFAA.icf</file>
+      <file>$PROJ_DIR$\Source\svc_app.c</file>
+      <file>$PROJ_DIR$\Source\system_nrf51.c</file>
+      <file>$PROJ_DIR$\Source\version.c</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product_string.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$PROJ_DIR$\Debug\List\exception_handler.lst</file>
+      <file>$PROJ_DIR$\..\..\..\..\..\..\Data Sheets\Nordic\nRF51\SDKs\SDK 4.4.2\nrf51422\Board\pca10003\ant\ant_broadcast\broadcast_tx\main_broadcast_tx.c</file>
+    </outputs>
+    <file>
+      <name>$PROJ_DIR$\Common\Source\dsi_utility.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 39</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 71 44</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 18 58 37 65 64 21 50 42 99 45 6</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 18 58 37 65 64 21 50 42 99 45 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Source\system.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 46</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 60 53</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 16 58 37 65 64 21 50 42 99 45 72 6 51 66 98 83 84 62 59 26 67 25 90 85 86 81 87 78 79 75 73 77 74 89 7 8 9 18 15</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 16 58 37 65 64 21 50 42 99 45 72 6 51 66 98 83 84 62 59 26 67 25 90 85 86 81 87 78 79 75 73 77 74 89 7 8 9 18 15</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Source\global.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 54</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 61 38</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 13 58 37 65 64 21 50 42 99 45 6</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 13 58 37 65 64 21 50 42 99 45 6</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Source\serial.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 55</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 41 22</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 15 58 37 65 64 21 50 42 99 45 72 6 83 84 62 59 26 67 25 90 85 86 81 87 78 79 75 73 77 74 7 9 13 16</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 15 58 37 65 64 21 50 42 99 45 72 6 83 84 62 59 26 67 25 90 85 86 81 87 78 79 75 73 77 74 7 9 13 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Common\Source\command.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 52</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 70 30</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 14 58 37 65 64 21 50 42 99 45 72 6 51 66 98 89 84 62 59 26 67 25 90 85 7 79 8 9 18 13 1 15 16 73</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 14 58 37 65 64 21 50 42 99 45 72 6 51 66 98 89 84 62 59 26 67 25 90 85 7 79 8 9 18 13 1 15 16 73</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Debug\Exe\ant_network_processor_mpg_iar.out</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 23</file>
+        </tool>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 33</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 94 30 44 49 38 34 28 22 32 53 24 20 63 35 36 48</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\exception_handler.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 49 100</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\iar_startup_nrf51.s</name>
+      <outputs>
+        <tool>
+          <name>AARM</name>
+          <file> 34 47</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\main.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 40</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 68 28</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 1 37 65 64 21 50 42 99 45 72 58 51 66 98 82 83 84 62 59 26 67 25 90 85 86 81 87 88 73 78 79 75 77 74 7 8 4 6 9 14 13 15 16</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 1 37 65 64 21 50 42 99 45 72 58 51 66 98 82 83 84 62 59 26 67 25 90 85 86 81 87 88 73 78 79 75 77 74 7 8 4 6 9 14 13 15 16</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\svc_app.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 19</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 69 32</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\system_nrf51.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 29</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 31 24</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 37 65 64 21 50 42 99 45 58 83 84 62 59 26 67 25 90 85 86 81 2</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 37 65 64 21 50 42 99 45 58 83 84 62 59 26 67 25 90 85 86 81 2</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\Source\version.c</name>
+      <outputs>
+        <tool>
+          <name>BICOMP</name>
+          <file> 27</file>
+        </tool>
+        <tool>
+          <name>ICCARM</name>
+          <file> 43 20</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 56 23</file>
+        </tool>
+      </outputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[REBUILD_ALL]</name>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+

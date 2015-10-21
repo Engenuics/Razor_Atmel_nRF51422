@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Project>
+  <Desktop>
+    <Static>
+      <Debug-Log>
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log>
+      <Build>
+        <ColumnWidth0>20</ColumnWidth0>
+        <ColumnWidth1>1395</ColumnWidth1>
+        <ColumnWidth2>372</ColumnWidth2>
+        <ColumnWidth3>93</ColumnWidth3>
+      </Build>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>331</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Disassembly>
+        <col-names>
+          
+          
+        <item>Disassembly</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>857</item><item>20</item></col-widths>
+        <DisasmHistory>
+          
+          
+          
+        <item>SVC_Handler</item><item>0xa000</item><item>0xc000</item></DisasmHistory>
+        
+        
+      <ShowCodeCoverage>1</ShowCodeCoverage><ShowInstrProfiling>1</ShowInstrProfiling></Disassembly>
+      <Breakpoints>
+        <col-names>
+          
+          
+        <item>Breakpoint</item><item>_I0</item></col-names>
+        <col-widths>
+          
+          
+        <item>500</item><item>35</item></col-widths>
+      </Breakpoints>
+      <Memory>
+        <FindDirection>1</FindDirection>
+        <FindAsHex>0</FindAsHex>
+      </Memory>
+      <SymbolicMemory>
+        <col-names>
+          <item>Data</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+          <item>Variable</item>
+        </col-names>
+        <col-widths>
+          <item>100</item>
+          <item>100</item>
+          <item>100</item>
+          <item>100</item>
+          <item>100</item>
+        </col-widths>
+        <SymMemHistory/>
+        <zone>Memory</zone>
+      </SymbolicMemory>
+      <WATCH_1>
+        <expressions>
+          
+        <item>ulErrorCode</item><item/></expressions>
+        <col-names>
+          
+          
+          
+          
+        <item>Expression</item><item>Location</item><item>Type</item><item>Value</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>100</item><item>150</item><item>100</item><item>100</item></col-widths>
+      </WATCH_1>
+      <WATCH_2>
+        <expressions>
+          <item/>
+        </expressions>
+        <col-names>
+          <item>Expression</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+        </col-names>
+        <col-widths>
+          <item>100</item>
+          <item>150</item>
+          <item>100</item>
+          <item>100</item>
+        </col-widths>
+      </WATCH_2>
+      <WATCH_3>
+        <expressions>
+          <item/>
+        </expressions>
+        <col-names>
+          <item>Expression</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+        </col-names>
+        <col-widths>
+          <item>100</item>
+          <item>150</item>
+          <item>100</item>
+          <item>100</item>
+        </col-widths>
+      </WATCH_3>
+      <WATCH_4>
+        <expressions>
+          <item/>
+        </expressions>
+        <col-names>
+          <item>Expression</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+        </col-names>
+        <col-widths>
+          <item>100</item>
+          <item>150</item>
+          <item>100</item>
+          <item>100</item>
+        </col-widths>
+      </WATCH_4>
+      <Locals>
+        <col-names>
+          
+          
+          
+          
+        <item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>150</item><item>100</item><item>100</item><item>148</item></col-widths>
+      </Locals>
+      <Statics>
+        <excluded-vars/>
+        <col-names>
+          
+          
+          
+          
+        <item>Location</item><item>Type</item><item>Value</item><item>Variable</item></col-names>
+        <col-widths>
+          
+          
+          
+          
+        <item>150</item><item>100</item><item>207</item><item>458</item></col-widths>
+      </Statics>
+      <QuickWatch>
+        <col-names>
+          <item>Expression</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+        </col-names>
+        <col-widths>
+          <item>100</item>
+          <item>150</item>
+          <item>100</item>
+          <item>100</item>
+        </col-widths>
+        <QWatchHistory/>
+      </QuickWatch>
+      <StaticWatch>
+        <expressions>
+          <item/>
+        </expressions>
+        <col-names>
+          <item>Expression</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+        </col-names>
+        <col-widths>
+          <item>100</item>
+          <item>150</item>
+          <item>100</item>
+          <item>100</item>
+        </col-widths>
+      </StaticWatch>
+      <CallStack>
+        <col-names>
+          <item>Frame</item>
+          <item>_I0</item>
+        </col-names>
+        <col-widths>
+          <item>400</item>
+          <item>20</item>
+        </col-widths>
+      </CallStack>
+      <STACK_1>
+        <col-names>
+          <item>Data</item>
+          <item>Frame</item>
+          <item>Location</item>
+          <item>Type</item>
+          <item>Value</item>
+          <item>Variable</item>
+        </col-names>
+        <col-widths>
+          <item>100</item>
+          <item>100</item>
+          <item>100</item>
+          <item>100</item>
+          <item>100</item>
+          <item>100</item>
+        </col-widths>
+        <stack>CSTACK</stack>
+        <width>4</width>
+        <vars>1</vars>
+        <offset>0</offset>
+      </STACK_1>
+      <Register/>
+      <Find-in-Files>
+        
+        
+        
+        
+      <ColumnWidth0>680</ColumnWidth0><ColumnWidth1>46</ColumnWidth1><ColumnWidth2>417</ColumnWidth2><ColumnWidth3>185</ColumnWidth3></Find-in-Files>
+    </Static>
+    <Windows>
+      
+      
+      
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-20136-31003</Identity>
+            <TabName>Debug Log</TabName>
+            <Factory>Debug-Log</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-19613-31013</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-21474-31183</Identity>
+            <TabName>Breakpoints</TabName>
+            <Factory>Breakpoints</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-15697-31779</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd1>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-30884-31006</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ant_network_processor_mpg_iar</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Common</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Common/Include</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Common/Source</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Include</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Output</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/SDK</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/SDK/Include</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/SDK/Include/S210</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Source</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd1><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-8864-31010</Identity>
+            <TabName>Disassembly</TabName>
+            <Factory>Disassembly</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-9680-31199</Identity>
+            <TabName>Symbolic Memory</TabName>
+            <Factory>SymbolicMemory</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-20951-31193</Identity>
+            <TabName>Memory</TabName>
+            <Factory>Memory</Factory>
+            <Session>
+              <ZoneNumber>0</ZoneNumber>
+              <SelectionAnchor>0</SelectionAnchor>
+              <SelectionEnd>0</SelectionEnd>
+              <UnitsPerGroup>1</UnitsPerGroup>
+              <EndianMode>0</EndianMode>
+              <DataCovEnabled>0</DataCovEnabled>
+              <DataCovShown>0</DataCovShown>
+              <AutoRefresh>0</AutoRefresh>
+              <HScroll>0</HScroll>
+              <VScroll>0</VScroll>
+            </Session>
+          </Tab>
+          <Tab>
+            <Identity>TabID-6020-31268</Identity>
+            <TabName>Statics</TabName>
+            <Factory>Statics</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-14678-31310</Identity>
+            <TabName>Call Stack</TabName>
+            <Factory>CallStack</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-2884-31326</Identity>
+            <TabName>Stack 1</TabName>
+            <Factory>STACK_1</Factory>
+            <Session/>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd2><Wnd3>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19153-31431</Identity>
+            <TabName>Register</TabName>
+            <Factory>Register</Factory>
+            <Session>
+              <REG1>0</REG1>
+              <REG2>0</REG2>
+              <Group>0</Group>
+              <States>0</States>
+            </Session>
+          </Tab>
+          <Tab>
+            <Identity>TabID-29608-31235</Identity>
+            <TabName>Watch 3</TabName>
+            <Factory>WATCH_3</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-7066-31248</Identity>
+            <TabName>Watch 4</TabName>
+            <Factory>WATCH_4</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-16246-31281</Identity>
+            <TabName>Quick Watch</TabName>
+            <Factory>QuickWatch</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-6543-31258</Identity>
+            <TabName>Locals</TabName>
+            <Factory>Locals</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>4</SelectedTab></Wnd3><Wnd4>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-19676-31421</Identity>
+            <TabName>Register</TabName>
+            <Factory>Register</Factory>
+            <Session>
+              
+              
+              
+              
+            <REG1>0</REG1><REG2>0</REG2><Group>41</Group><States>1</States><State0>POWER__RESETREAS</State0></Session>
+          </Tab>
+          <Tab>
+            <Identity>TabID-19906-31212</Identity>
+            <TabName>Watch 1</TabName>
+            <Factory>WATCH_1</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-19383-31222</Identity>
+            <TabName>Watch 2</TabName>
+            <Factory>WATCH_2</Factory>
+          </Tab>
+          <Tab>
+            <Identity>TabID-26472-31294</Identity>
+            <TabName>Live Watch</TabName>
+            <Factory>StaticWatch</Factory>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd4></Windows>
+    <Editor>
+      
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Common\Source\serial.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1058</YPos2><SelStart2>51889</SelStart2><SelEnd2>51889</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\nrf51_bitfields.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>2538</YPos2><SelStart2>140743</SelStart2><SelEnd2>140743</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\s210\ant_parameters.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>450</YPos2><SelStart2>34632</SelStart2><SelEnd2>34632</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\compiler_abstraction.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>580</SelStart2><SelEnd2>586</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\system_nRF51.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\nrf.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>579</SelStart2><SelEnd2>579</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\nrf51.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>21</YPos2><SelStart2>1160</SelStart2><SelEnd2>1160</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\system_nrf51.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>546</SelStart2><SelEnd2>546</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>C:\Program Files\IAR Systems\EWARM_7_20_1\arm\CMSIS\Include\core_cm0.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>100</YPos2><SelStart2>5947</SelStart2><SelEnd2>5947</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\iar_startup_nrf51.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>205</YPos2><SelStart2>7433</SelStart2><SelEnd2>7433</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\nRF51422_QFAA.icf</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>730</SelStart2><SelEnd2>730</SelEnd2></Tab><ActiveTab>10</ActiveTab></Pane><ActivePane>0</ActivePane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Common\Source\system.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>42</YPos2><SelStart2>1263</SelStart2><SelEnd2>1263</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Common\Include\serial.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1</YPos2><SelStart2>11</SelStart2><SelEnd2>11</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\s210\nrf_sdm.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>58</YPos2><SelStart2>3547</SelStart2><SelEnd2>3547</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\s210\nrf_soc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>320</YPos2><SelStart2>12745</SelStart2><SelEnd2>12745</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\boardconfig.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>6</YPos2><SelStart2>379</SelStart2><SelEnd2>379</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Common\Source\command.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>109</YPos2><SelStart2>5138</SelStart2><SelEnd2>5138</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\s210\ant_interface.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>24</YPos2><SelStart2>861</SelStart2><SelEnd2>861</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>171</YPos2><SelStart2>4524</SelStart2><SelEnd2>4524</SelEnd2></Tab><ActiveTab>7</ActiveTab></Pane><Sizes><Pane><X>360708</X><Y>1000000</Y></Pane><Pane><X>639291</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-026A9340><key>iaridepm.enu1</key></Toolbar-026A9340><Toolbar-177204E0><key>debuggergui.enu1</key></Toolbar-177204E0></Sizes></Row0><Row1><Sizes><Toolbar-17720350><key>armjlink.enu1</key></Toolbar-17720350></Sizes></Row1></Top><Left><Row0><Sizes><Wnd1><Rect><Top>-2</Top><Left>-2</Left><Bottom>1001</Bottom><Right>422</Right><x>-2</x><y>-2</y><xscreen>267</xscreen><yscreen>257</yscreen><sizeHorzCX>104297</sizeHorzCX><sizeHorzCY>192365</sizeHorzCY><sizeVertCX>165625</sizeVertCX><sizeVertCY>750749</sizeVertCY></Rect></Wnd1></Sizes></Row0></Left><Right><Row0><Sizes><Wnd4><Rect><Top>-2</Top><Left>-2</Left><Bottom>630</Bottom><Right>483</Right><x>-2</x><y>-2</y><xscreen>267</xscreen><yscreen>257</yscreen><sizeHorzCX>104297</sizeHorzCX><sizeHorzCY>192365</sizeHorzCY><sizeVertCX>189453</sizeVertCX><sizeVertCY>473054</sizeVertCY></Rect></Wnd4><Wnd3><Rect><Top>0</Top><Left>0</Left><Bottom>0</Bottom><Right>7</Right><x>-2</x><y>628</y><xscreen>267</xscreen><yscreen>257</yscreen><sizeHorzCX>104297</sizeHorzCX><sizeHorzCY>192365</sizeHorzCY><sizeVertCX>189453</sizeVertCX><sizeVertCY>279192</sizeVertCY></Rect></Wnd3></Sizes></Row0></Right><Bottom><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>266</Bottom><Right>1384</Right><x>-2</x><y>-2</y><xscreen>1386</xscreen><yscreen>268</yscreen><sizeHorzCX>541406</sizeHorzCX><sizeHorzCY>200599</sizeHorzCY><sizeVertCX>104297</sizeVertCX><sizeVertCY>192365</sizeVertCY></Rect></Wnd0><Wnd2><Rect><Top>0</Top><Left>0</Left><Bottom>543649901</Bottom><Right>1551003508</Right><x>1382</x><y>-2</y><xscreen>1180</xscreen><yscreen>268</yscreen><sizeHorzCX>460938</sizeHorzCX><sizeHorzCY>200599</sizeHorzCY><sizeVertCX>104297</sizeVertCX><sizeVertCY>767964</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Project>
+
+

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<Workspace>
+  <ConfigDictionary>
+    
+  <CurrentConfigs><Project>ant_network_processor_mpg_iar/Debug</Project></CurrentConfigs></ConfigDictionary>
+  <Desktop>
+    <Static>
+      <Workspace>
+        <ColumnWidths>
+          
+          
+          
+          
+        <Column0>229</Column0><Column1>27</Column1><Column2>27</Column2><Column3>27</Column3></ColumnWidths>
+      </Workspace>
+      <Build>
+        
+        
+        
+        
+      <ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1395</ColumnWidth1><ColumnWidth2>372</ColumnWidth2><ColumnWidth3>93</ColumnWidth3></Build>
+      <Find-in-Files>
+        
+        
+        
+        
+      <ColumnWidth0>569</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>854</ColumnWidth2><ColumnWidth3>379</ColumnWidth3></Find-in-Files>
+    <TerminalIO/><Debug-Log><ColumnWidth0>20</ColumnWidth0><ColumnWidth1>1861</ColumnWidth1></Debug-Log><Find-All-Declarations><ColumnWidth0>664</ColumnWidth0><ColumnWidth1>94</ColumnWidth1><ColumnWidth2>1138</ColumnWidth2></Find-All-Declarations></Static>
+    <Windows>
+      
+      
+    <Wnd0>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-10302-26847</Identity>
+            <TabName>Workspace</TabName>
+            <Factory>Workspace</Factory>
+            <Session>
+              
+            <NodeDict><ExpandedNode>ant_network_processor_mpg_iar</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Common</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Common/Include</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Common/Source</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Include</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Output</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/SDK</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/SDK/Include</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/SDK/Include/S210</ExpandedNode><ExpandedNode>ant_network_processor_mpg_iar/Source</ExpandedNode></NodeDict></Session>
+          </Tab>
+        </Tabs>
+        
+      <SelectedTab>0</SelectedTab></Wnd0><Wnd2>
+        <Tabs>
+          <Tab>
+            <Identity>TabID-32073-7794</Identity>
+            <TabName>Build</TabName>
+            <Factory>Build</Factory>
+            <Session/>
+          </Tab>
+          <Tab>
+            <Identity>TabID-18836-8656</Identity>
+            <TabName>Find in Files</TabName>
+            <Factory>Find-in-Files</Factory>
+            <Session/>
+          </Tab>
+        <Tab><Identity>TabID-26305-31911</Identity><TabName>Debug Log</TabName><Factory>Debug-Log</Factory><Session/></Tab><Tab><Identity>TabID-7028-25764</Identity><TabName>Declarations</TabName><Factory>Find-All-Declarations</Factory><Session/></Tab></Tabs>
+        
+      <SelectedTab>1</SelectedTab></Wnd2></Windows>
+    <Editor>
+      
+      
+      
+      
+      
+      
+    <Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\system_nRF51.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>0</SelStart2><SelEnd2>0</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\nrf51.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>21</YPos2><SelStart2>1160</SelStart2><SelEnd2>1160</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\system_nrf51.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>546</SelStart2><SelEnd2>546</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\iar_startup_nrf51.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>205</YPos2><SelStart2>7433</SelStart2><SelEnd2>7433</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\nRF51422_QFAA.icf</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>730</SelStart2><SelEnd2>730</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\nrf_gpio.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>166</YPos2><SelStart2>9674</SelStart2><SelEnd2>9674</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\nrf.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>482</SelStart2><SelEnd2>482</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Common\Source\serial.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>348</YPos2><SelStart2>20620</SelStart2><SelEnd2>20620</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\nordic_common.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>33</YPos2><SelStart2>1009</SelStart2><SelEnd2>1009</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\main.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>194</YPos2><SelStart2>5099</SelStart2><SelEnd2>5099</SelEnd2></Tab><ActiveTab>9</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Source\exception_handler.s</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>319</SelStart2><SelEnd2>319</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\s210\ant_parameters.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>653</YPos2><SelStart2>48512</SelStart2><SelEnd2>48534</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\compiler_abstraction.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>3</YPos2><SelStart2>748</SelStart2><SelEnd2>748</SelEnd2></Tab></Pane><ActivePane>0</ActivePane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Common\Include\serial.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>1</YPos2><SelStart2>11</SelStart2><SelEnd2>11</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\s210\nrf_sdm.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>102</YPos2><SelStart2>6482</SelStart2><SelEnd2>6482</SelEnd2></Tab><ActiveTab>1</ActiveTab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\s210\nrf_soc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>146</YPos2><SelStart2>6675</SelStart2><SelEnd2>6675</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\boardconfig.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>6</YPos2><SelStart2>379</SelStart2><SelEnd2>379</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Common\Source\command.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>51</XPos2><YPos2>155</YPos2><SelStart2>7560</SelStart2><SelEnd2>7560</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\s210\ant_interface.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>413</SelStart2><SelEnd2>413</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Common\Source\system.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>56</YPos2><SelStart2>2502</SelStart2><SelEnd2>2502</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\SDK\Include\s210\nrf_svc.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>0</YPos2><SelStart2>652</SelStart2><SelEnd2>652</SelEnd2></Tab></Pane><Pane><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\Data Sheets\Nordic\nRF51\SDKs\SDK 4.4.2\nrf51422\Board\pca10003\ant\ant_broadcast\broadcast_tx\main_broadcast_tx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>39</YPos2><SelStart2>1889</SelStart2><SelEnd2>1889</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\Include\app_error.h</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>18</YPos2><SelStart2>2139</SelStart2><SelEnd2>2139</SelEnd2></Tab><Tab><Factory>TextEditor</Factory><Filename>$WS_DIR$\..\..\..\..\..\..\Data Sheets\Nordic\nRF51\SDKs\SDK 4.4.2\nrf51422\Board\pca10003\ant\ant_broadcast\broadcast_rx\main_broadcast_rx.c</Filename><XPos>0</XPos><YPos>0</YPos><SelStart>0</SelStart><SelEnd>0</SelEnd><XPos2>0</XPos2><YPos2>102</YPos2><SelStart2>2861</SelStart2><SelEnd2>2861</SelEnd2></Tab><ActiveTab>2</ActiveTab></Pane><Sizes><Pane><X>386107</X><Y>1000000</Y></Pane><Pane><X>493116</X><Y>1000000</Y></Pane><Pane><X>119193</X><Y>1000000</Y></Pane></Sizes><SplitMode>4</SplitMode></Editor>
+    <Positions>
+      
+      
+      
+      
+      
+    <Top><Row0><Sizes><Toolbar-0120E790><key>iaridepm.enu1</key></Toolbar-0120E790></Sizes></Row0></Top><Left><Row0><Sizes><Wnd0><Rect><Top>-2</Top><Left>-2</Left><Bottom>676</Bottom><Right>320</Right><x>-2</x><y>-2</y><xscreen>119</xscreen><yscreen>148</yscreen><sizeHorzCX>61979</sizeHorzCX><sizeHorzCY>142582</sizeHorzCY><sizeVertCX>167708</sizeVertCX><sizeVertCY>653179</sizeVertCY></Rect></Wnd0></Sizes></Row0></Left><Right><Row0><Sizes/></Row0></Right><Bottom><Row0><Sizes><Wnd2><Rect><Top>-2</Top><Left>-2</Left><Bottom>317</Bottom><Right>1922</Right><x>-2</x><y>-2</y><xscreen>1924</xscreen><yscreen>319</yscreen><sizeHorzCX>1002083</sizeHorzCX><sizeHorzCY>307322</sizeHorzCY><sizeVertCX>61979</sizeVertCX><sizeVertCY>142582</sizeVertCY></Rect></Wnd2></Sizes></Row0></Bottom><Float><Sizes/></Float></Positions>
+  </Desktop>
+</Workspace>
+
+
